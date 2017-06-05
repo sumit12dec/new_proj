@@ -1,11 +1,13 @@
-Listing team members
+## Listing team members
 
 Request Method: GET
+
 URL: http://127.0.0.1:8000/users/
 
-Adding a team member
+## Adding a team member
 
 Request Method: POST
+
 URL: http://127.0.0.1:8000/users/
 
 {
@@ -16,8 +18,9 @@ URL: http://127.0.0.1:8000/users/
     "role": "regular"
 }
 
-Editing a team member
+## Editing a team member
 Request Method: PATCH
+
 URL: http://127.0.0.1:8000/users/2/
 
 {
@@ -26,6 +29,7 @@ URL: http://127.0.0.1:8000/users/2/
 
 }
 
-Deleting a team member
+## Deleting a team member
 Request Method: DELETE
+
 URL: http://127.0.0.1:8000/users/2/
