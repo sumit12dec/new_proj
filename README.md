@@ -32,4 +32,6 @@ URL: http://127.0.0.1:8000/users/2/
 ## Deleting a team member
 Request Method: DELETE
 
-URL: http://127.0.0.1:8000/users/2/
+URL: http://127.0.0.1:8000/users/<user_id>/
+
+URL Example: http://127.0.0.1:8000/users/2/
