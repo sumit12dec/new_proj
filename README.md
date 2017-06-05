@@ -1,3 +1,5 @@
+Usage:
+
 ## Listing team members
 
 Request Method: GET
